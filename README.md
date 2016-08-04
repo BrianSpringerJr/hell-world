@@ -1,4 +1,4 @@
-# hell-world
+# hello-world
 Testing how to use GitHub
 
 Hello everybody. 
